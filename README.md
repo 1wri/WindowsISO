@@ -26,5 +26,12 @@ Windows纯净原版ISO镜像 Win7/8/10/11原版系统镜像
 ![3.jpg](imgs%2F3.jpg)
 
 
+### 扫码关注公众号 获取更多项目和编程资料
+
+关注公众号：小猿天天学习
+
+公众号ID：xzzard
 
 
+
+![img.png](imgs%2Fimg.png)
